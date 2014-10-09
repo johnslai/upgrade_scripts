@@ -1,0 +1,456 @@
+{
+  "bud": {
+    "hw_rev": "D.4", 
+    "serial": "aq14190011", 
+    "sw_rev": "1.1.48"
+  }, 
+  "channels": {
+    "channel0": {
+      "enabled": true, 
+      "id": 1979, 
+      "phase_high": "N", 
+      "phase_low": "N", 
+      "scale": 0.0129779050833, 
+      "type": "voltage"
+    }, 
+    "channel1": {
+      "enabled": true, 
+      "id": 1980, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0129779050833, 
+      "type": "voltage"
+    }, 
+    "channel10": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel11": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel12": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel13": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.00299799575, 
+      "type": "current"
+    }, 
+    "channel14": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.00299799575, 
+      "type": "current"
+    }, 
+    "channel15": {
+      "breaker_size": 20.0, 
+      "enabled": false, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.00299799575, 
+      "type": "current"
+    }, 
+    "channel16": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel17": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel18": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel19": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel2": {
+      "enabled": true, 
+      "id": 1981, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0129779050833, 
+      "type": "voltage"
+    }, 
+    "channel20": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel21": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel22": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel23": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel24": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel25": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel26": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel27": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel28": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel29": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel3": {
+      "enabled": true, 
+      "id": 1982, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0129779050833, 
+      "type": "voltage"
+    }, 
+    "channel30": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel31": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel32": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel33": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel34": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel35": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel36": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel37": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel38": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel39": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel4": {
+      "breaker_size": 20.0, 
+      "enabled": false, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.00299799575, 
+      "type": "current"
+    }, 
+    "channel40": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel41": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel42": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel43": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel44": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel45": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel5": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.00299799575, 
+      "type": "current"
+    }, 
+    "channel6": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.00299799575, 
+      "type": "current"
+    }, 
+    "channel7": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel8": {
+      "breaker_size": 20.0, 
+      "enabled": true, 
+      "id": 0, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }, 
+    "channel9": {
+      "breaker_size": 20.0, 
+      "enabled": false, 
+      "id": 0, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "scale": 0.0011991983, 
+      "type": "current"
+    }
+  }, 
+  "control": {
+    "poll_interval": 900, 
+    "url": "http://apollo.building.ai/commands/"
+  }, 
+  "devices": {
+    "iio": {
+      "device": {
+        "enabled": true, 
+        "id": "0", 
+        "iio_dir": "/sys/bus/iio/devices/", 
+        "iio_driver": "/dev/iio:device", 
+        "sim": "0", 
+        "unified_iio": "1"
+      }
+    }
+  }, 
+  "send": {
+    "backup_path": "/data/backup", 
+    "enabled": true, 
+    "max_files": 16, 
+    "min_wait_collect": 200, 
+    "min_wait_send": 2000, 
+    "observe_path": "/tmp", 
+    "retry_interval": 0, 
+    "states_url": "http://apollo.building.ai/states/", 
+    "status_url": "http://apollo.building.ai/status/", 
+    "timeout": 15
+  }, 
+  "waveparser": {
+    "settings": {
+      "change_history": 4, 
+      "change_threshold": 0.5, 
+      "heart_beat": 7200, 
+      "reset_threshold": 0.1, 
+      "window_size": 10
+    }
+  }
+}

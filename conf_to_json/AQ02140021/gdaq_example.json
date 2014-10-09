@@ -1,0 +1,87 @@
+{
+  "control": {
+    "url": "http://apollo.building.ai/commands/", 
+    "poll_interval": 900
+  }, 
+  "waveparser": {
+    "settings": {
+      "change_threshold": 0.5, 
+      "heart_beat": 7200, 
+      "change_history": 4, 
+      "window_size": 10, 
+      "reset_threshold": 0.10000000000000001
+    }
+  }, 
+  "devices": {
+    "iio": {
+      "device": {
+        "enabled": true, 
+        "unified_iio": "1", 
+        "iio_dir": "/sys/bus/iio/devices/", 
+        "iio_driver": "/dev/iio:device", 
+        "id": "0", 
+        "sim": "0"
+      }
+    }
+  }, 
+  "channels": {
+    "channel0": {
+      "scale": 0.0129779050833,
+      "phase_high": "N", 
+      "phase_low": "N", 
+      "enabled": true, 
+      "type": "voltage", 
+      "id": 1979
+    }, 
+    "channel1": {
+      "scale": 0.0129779050833, 
+      "phase_high": "C", 
+      "phase_low": "N", 
+      "enabled": true, 
+      "type": "voltage", 
+      "id": 1980
+    }, 
+    "channel2": {
+      "scale": 0.0129779050833, 
+      "phase_high": "B", 
+      "phase_low": "N", 
+      "enabled": true, 
+      "type": "voltage", 
+      "id": 1981
+    }, 
+    "channel3": {
+      "scale": 0.0129779050833,
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "enabled": true, 
+      "type": "voltage", 
+      "id": 1982
+    }, 
+    "channel4": {
+      "scale": 0.0011991983, 
+      "phase_high": "A", 
+      "phase_low": "N", 
+      "breaker_size": 20, 
+      "enabled": true, 
+      "type": "current", 
+      "id": 1983
+    }
+  }, 
+  "send": {
+    "max_files": 16, 
+    "enabled": true, 
+    "status_url": "http://apollo.building.ai/status/", 
+    "backup_path": "/data/backup", 
+    "retry_interval": 0, 
+    "timeout": 15, 
+    "observe_path": "/tmp", 
+    "min_wait_send": 2000, 
+    "states_url": "http://apollo.building.ai/states/", 
+    "min_wait_collect": 200
+  }, 
+  "bud": {
+    "serial": "AQ14190001", 
+    "hw_rev": "D.4", 
+    "sw_rev": "1.1.48"
+  }
+}
