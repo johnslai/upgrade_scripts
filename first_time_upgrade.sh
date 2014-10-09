@@ -2,10 +2,6 @@
 #url=http://192.168.1.68:8000/images/console-image-beaglebone.tar.gz
 #url=http://98.207.234.138:8001/images/console-image-beaglebone.tar.gz
 url=http://192.168.1.68:8000/images/console-image-beaglebone.tar.gz
-
-#bud=work
-#port=2222
-
 bud=192.168.1.92
 port=22
 
